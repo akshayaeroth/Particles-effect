@@ -1,4 +1,4 @@
-## You can include this type of animation into your websites  🌐.
+.
 ## It enables you to move tiny particles on your web background, with many other fancy features.
 >  ✨Way to move fancy particles that fit your website layout.
 >  
